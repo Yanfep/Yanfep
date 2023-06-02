@@ -1,8 +1,7 @@
-# My name is Yanfe
 
-Estoy cursando el bootcamo de Full Stack
+# 👋 Hi! I’m Yanfe Pedroza (say Gian-fe)— ✰
 
-## Tecnologías
+—an interaction designer and problem solver with a background in architecture design BASED IN Valencia ✸
 
 - HTML
 - CSS
