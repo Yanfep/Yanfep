@@ -17,6 +17,7 @@ At the moment I'm learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
  </div>
  
+ 
  ## Puedes contactarme en las siguientes redes sociales!
  <div>
   <a href="https://www.linkedin.com/in/yanfepedroza/">
