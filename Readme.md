@@ -3,7 +3,9 @@
 
 —an interaction designer and problem solver with a background in architecture design BASED IN Valencia ✸
 
-At the moment I'm learning
+At the moment I'm learning about
+- Design systems
+- Tokens
 - HTML
 - CSS
 - Javascript
